@@ -13,13 +13,13 @@
         <dependency>
             <groupId>org.springframework</groupId>
             <artifactId>spring-web</artifactId>
-            <version>5.3.29</version>
+            <version>6.1.14</version>
         </dependency>
         <!-- https://mvnrepository.com/artifact/org.springframework/spring-webflux -->
         <dependency>
             <groupId>org.springframework</groupId>
             <artifactId>spring-webflux</artifactId>
-            <version>5.3.29</version>
+            <version>6.1.14</version>
         </dependency>
         <dependency>
             <groupId>jakarta.servlet</groupId>
@@ -29,7 +29,7 @@
         <dependency>
             <groupId>org.apache.tomcat</groupId>
             <artifactId>tomcat-catalina</artifactId>
-            <version>8.5.58</version>
+            <version>9.0.104</version>
             <exclusions>
                 <exclusion>
                     <groupId>org.apache.tomcat</groupId>
